@@ -67,9 +67,11 @@ h1{
   main{
     width: 100%;
     display: block;
+    
   }
   .step-box{
     width:90%;
+    margin-left: 5%;
   }
   .step-box:first-child{
     margin-top: 50px;
